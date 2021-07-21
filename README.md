@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hello Github'ers! I'm Oskar.
 
-<!--
-**OskarSajdak/OskarSajdak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙋🏻‍♂️ About Me
 
-Here are some ideas to get you started:
+I'm Computer Engineering student in my final year, focused on improving in fields related to web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+What I learnt during my contionus learning journey:
+- Java 
+- SQL
+- Html
+
+I focus on improving:
+- HTML / CSS / JavaScript
+- Maven / SpringBoot / Hibernate
