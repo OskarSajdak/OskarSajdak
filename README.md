@@ -8,10 +8,10 @@ I'm freshly graduated student of Computer Engineering, focused on improving in f
 
 What I learnt during my contionus learning journey:
 - Java 
-- SQL
 - Html
 - CSS
-- JavaScript
 
 I focus on improving:
+- SQL
+- JavaScript
 - Maven / SpringBoot / Hibernate
