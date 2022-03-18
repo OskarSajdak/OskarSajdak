@@ -7,11 +7,11 @@ I'm freshly graduated student of Computer Engineering, focused on improving in f
 ### 💻 Tech Stack
 
 What I learnt during my contionus learning journey:
-- Java 
+- Java
+- SQL
 - Html
 - CSS
 
 I focus on improving:
-- SQL
 - JavaScript
 - Maven / SpringBoot / Hibernate
